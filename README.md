@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-bade&show_icons=true&theme=algolia&hide_border=true&cache_seconds=300" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-bade&show_icons=true&theme=algolia&hide_border=true&cache_seconds=10" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-bade&layout=compact&theme=algolia&hide_border=true" width="42%" />
 </div>
 
