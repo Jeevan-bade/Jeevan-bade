@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;AI-DS+Student+%7C+Python+Developer;Building+ML+%26+Web+Applications" alt="Typing SVG" />
 </div>
 
-👋 Welcome! I'm an AI-DS engineering student exploring Machine Learning, Data Science, Python development, and practical AI applications.
+👋 Welcome! I'm an AI-DS engineering student exploring Machine Learning, Data Science, and Python development.
 
 ## 🛠️ Tech Stack
 <div align="center">
