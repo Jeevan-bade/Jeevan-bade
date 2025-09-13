@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;AI-DS+Student+%7C+Python+Developer;Building+ML+%26+Web+Applications" alt="Typing SVG" />
 </div>
 
-👋 Welcome! I'm an AI-DS engineering student exploring Machine Learning, Data Science, and Python development.
+👋 Welcome! I'm Developer exploring Artificial Intelligence, Machine Learning,  Data Science.
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -65,12 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-bade&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800" width="55%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-bade&layout=compact&theme=algolia&hide_border=true" width="42%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-bade&theme=algolia&hide_border=true" width="70%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-bade&theme=react-dark&hide_border=true&area=true" width="100%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
 
 ## 💻 Let's Connect
 <div align="center">
@@ -86,9 +80,4 @@
   <a href="https://leetcode.com/u/Jeevanbade004">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(255,161,22,0.3)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'" />
   </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeevan-bade&color=2196F3&style=flat-square&label=Profile+Views" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
