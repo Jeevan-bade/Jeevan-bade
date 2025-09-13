@@ -9,33 +9,86 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,typescript,cpp,docker,aws,git,github,vscode" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
   <br>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-3px)'" onmouseout="this.style.transform='scale(1) translateY(0)'" />
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-3px)'" onmouseout="this.style.transform='scale(1) translateY(0)'" />
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-3px)'" onmouseout="this.style.transform='scale(1) translateY(0)'" />
+  </a>
+  <a href="https://www.sqlalchemy.org" target="_blank">
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-3px)'" onmouseout="this.style.transform='scale(1) translateY(0)'" />
+  </a>
+  <a href="https://www.sqlite.org" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-3px)'" onmouseout="this.style.transform='scale(1) translateY(0)'" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-bade&show_icons=true&theme=algolia&hide_border=true&cache_seconds=10" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-bade&layout=compact&theme=algolia&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-bade&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800" width="55%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-bade&layout=compact&theme=algolia&hide_border=true" width="42%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-bade&theme=algolia&hide_border=true" width="70%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-bade&theme=react-dark&hide_border=true&area=true" width="100%" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 ## 💻 Let's Connect
 <div align="center">
-  <a href="mailto:jeevanbade.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&to=jeevanbade.work@gmail.com&su=Hello%20Jeevan&body=Hi%20Jeevan,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(209,72,54,0.3)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'" />
   </a>
   <a href="https://jeevan-bade.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" style="transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(255,87,34,0.3)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'" />
   </a>
   <a href="https://linkedin.com/in/jeevanbade">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,119,181,0.3)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'" />
   </a>
   <a href="https://leetcode.com/u/Jeevanbade004">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(255,161,22,0.3)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'" />
   </a>
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeevan-bade&color=2196F3&style=flat-square&label=Profile+Views" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
