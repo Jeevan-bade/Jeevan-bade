@@ -2,10 +2,8 @@
   <img src="https://github.com/user-attachments/assets/1ec057ee-6300-46e6-acb5-1bd9bc3b1806" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
   <br><br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;AI-DS+Student+%7C+Python+Developer;Building+ML+%26+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Data Engineer+%7C+Python+Developer;Building+ML+%26+Web+Applications" alt="Typing SVG" />
 </div>
-
-👋 Welcome! I'm Data Engineer.
 
 ## 🛠️ Tech Stack
 <div align="center">
